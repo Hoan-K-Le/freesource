@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between border-b border-gray-700 px-4 py-2">
+    <nav className="flex items-center justify-between border-b border-gray-700 px-6 py-2">
       <Image
         src="https://placekitten.com/200/300"
         alt="logo-placeholder"
